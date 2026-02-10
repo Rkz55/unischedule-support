@@ -16,3 +16,11 @@ Notifications, when enabled, are local notifications only.
 
 ## Feedback
 If you have suggestions or feedback, feel free to reach out by email.
+
+# Privacy Policy – UniSchedule
+
+UniSchedule does not collect, store, or share any personal data.
+
+All data is stored locally on the user’s device.
+No account or sign-in is required.
+Notifications, if enabled, are local only.
